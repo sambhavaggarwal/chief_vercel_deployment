@@ -1,0 +1,336 @@
+{
+  "decisions": [
+    {
+      "id": "d1",
+      "summary": "Approval to purchase a carpet shampooer.",
+      "status": "made",
+      "date": "1979-12-31",
+      "actors": [
+        "phillip.allen@enron.com",
+        "maryrichards7@hotmail.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<17449361.1075855672476.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "phillip.allen@enron.com",
+          "to": "maryrichards7@hotmail.com",
+          "subject": "Re:",
+          "body": "Mary,\n\n It is OK to buy a carpet shampooer.\n About the W-2's, how would you "
+        }
+      ]
+    },
+    {
+      "id": "d2",
+      "summary": "Proposal to bid $2.8 for sagewood with a rate of 8.5% or less.",
+      "status": "pending",
+      "date": "1979-12-31",
+      "actors": [
+        "phillip.allen@enron.com",
+        "jsmith@austintx.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<13537630.1075855669909.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "phillip.allen@enron.com",
+          "to": "jsmith@austintx.com",
+          "subject": "Re: MISSION SOUTH",
+          "body": "Jeff,\n\n I want to bid $2.8 for sagewood with a rate 8.5% or less and dependent on  \n30 year term"
+        }
+      ]
+    },
+    {
+      "id": "d3",
+      "summary": "Request to modify the code that disallows choice markets in the trading system.",
+      "status": "pending",
+      "date": "1979-12-31",
+      "actors": [
+        "john.arnold@enron.com",
+        "dave.forster@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<16948003.1075857577252.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "john.arnold@enron.com",
+          "to": "dave.forster@enron.com",
+          "subject": "",
+          "body": "Dave:\nCan you modify the code that disallows at choice market.  Sometimes the \nsystem will allow me to make a choice market by lowering my offer, sometimes \nit won't.  The system will never allow me to raise a bid to make a choice \nmarket.   I use this feature when \n\nThe sytem should continue to disallow inverted markets, a market where the \nbid is greater than the offer."
+        }
+      ]
+    },
+    {
+      "id": "d4",
+      "summary": "Need for major counterparties to have unlimited credit on EOL to prevent failed trades.",
+      "status": "pending",
+      "date": "1979-12-31",
+      "actors": [
+        "john.arnold@enron.com",
+        "dave.forster@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<12734256.1075857578923.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "john.arnold@enron.com",
+          "to": "dave.forster@enron.com",
+          "subject": "",
+          "body": "Dave:\nA couple of issues:\n\n1.  We continue to have a number of transactions that fail because of credit \nexposure.  These are companies that have excellent credit, such as Duke, \nDynegy, Equitable, Mieco, etc, but have a fixed credit line on EOL that they \nblow through periodically.  They get a failed trade and it often takes 5-10 \nminutes to rectify the problem, at which time we've lost the trade.   We need \nthe major counterparties to have unlimited credit on EOL, just as they have \nin normal trading.\n\n2.  As a corrallary, I am under the impression that when a trade fails \nbecause of credit, the counterparty does not get an explanatory error message \ndescribing what happened and what to do.  When a credit failure happens, the \ncounterparty will often keep clicking on the same product, getting the same \nerror message"
+        }
+      ]
+    },
+    {
+      "id": "d5",
+      "summary": "Draft memo regarding Sally Beck's role in operations for wholesale businesses to be sent out.",
+      "status": "pending",
+      "date": "1979-12-31",
+      "actors": [
+        "sally.beck@enron.com",
+        "richard.causey@enron.com",
+        "mark.frevert@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<16474146.1075855784063.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "sally.beck@enron.com",
+          "to": "richard.causey@enron.com",
+          "subject": "Draft Memo - Global Operations",
+          "body": "Below is a draft of a memo that could be sent from you and Mark Frevert \nregarding further definition around my role in operations for the wholesale \nbusinesses.  \n\nDRAFT\n\nTo mirror the commercial focus on our wholesale businesses, the trading \noperations support for these businesses will be will be led by Sally In light \nof recent organizational realignment "
+        }
+      ]
+    },
+    {
+      "id": "d6",
+      "summary": "Request for summer interns with a specified background in finance or accounting.",
+      "status": "pending",
+      "date": "1979-12-31",
+      "actors": [
+        "patti.thompson@enron.com",
+        "sally.beck@enron.com",
+        "barry.pearce@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<32094244.1075849824023.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "patti.thompson@enron.com",
+          "to": "beth.apollo@enron.com, brenda.herod@enron.com, shona.wilson@enron.com, \n\tsheri.thomas@enron.com, bob.hall@enron.com, james.scribner@enron.com, \n\tleslie.reeves@enron.com",
+          "subject": "Summer Interns",
+          "body": "Jana Gionannini, in the recruiting department has received our request for \nsummer interns, and would like to know if you would like for your intern to \nhave finance or accounting background.  Sally asked me to contact you for \nthis information.  Please respond today if possible.\n\n\nBeth Apollo 1\nBrenda Herod 2\nShona Wilson 2\nSheri Thomas 1\nBob Hall 2\nJames Scribner 2\nLeslie Reeves 2\n\nTotal 12"
+        }
+      ]
+    },
+    {
+      "id": "d7",
+      "summary": "Communication regarding the transfer from old Enron company to Enron Net Works.",
+      "status": "pending",
+      "date": "1979-12-31",
+      "actors": [
+        "patti.thompson@enron.com",
+        "sally.beck@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<28011240.1075849825625.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "patti.thompson@enron.com",
+          "to": "brenda.herod@enron.com, yvette.connevey@enron.com, \n\tchristina.morado@enron.com, arlene.upchurch@enron.com, \n\tsalisha.ramos@enron.com, kelly.templeton@enron.com, morris@enron.com, \n\tchantelle.villanueva@enron.com, sue.foust@enron.com, \n\tbraedi.craig@enron.com, d.hall@enron.com, scott.earnest@enron.com, \n\tsheila.glover@enron.com, kevin.sweeney@enron.com, \n\tjefferson.sorenson@enron.com, eric.groves@enron.com, \n\tjohn.swinney@enron.com, mark.leskowitz@enron.com, \n\tfrank.prejean@enron.com, lisa.walker@enron.com, \n\tbrent.price@enron.com",
+          "subject": "",
+          "body": "To:   ENW Administrative Assistants, ENW Department Heads\n  From:  Sally Beck, Managing Director of ENW-Energy Operations\n\n   To be determined once 1st memo is distributed, we sent out a communicati=\non=20\ninforming all ENW employees of the transfer from your old Enron company to=\n=20\nEnron Net Works.\n\n   Today=01,s communication does include:\n? New ENW Company Code\n? New ENW Cost Centers listed by Department Head\n? New ENW Organization Units\n? Listing of HR Representatives and Financial Contact\n\n=20\n\nImplications for Business Unit Administrative Assistants\n\n? If you are coding anything (including timekeeping, invoicing and expense=\n=20\nreports) to a cost center, NOT a WBS Element, code to the new company code=\n=20\nand cost center.\n? If you are coding to a WBS Element, NOT a cost center, continue coding to=\n=20\nthe existing company code and WBS Element number, regardless of the change =\nin=20\ncost centers.  ***WBS Element numbers may be revised at some point in the=\n=20\nfuture.  If they do change, the new numbers will be communicated at that=20\ntime.***\n? If an employee or non-employee entered their time for the period starting=\n=20\nMarch 16th to the March 23st, that employee or non-employee must go back in=\nto=20\nSAP and re-enter their time.  Labor Distribution will be adversely affected=\n=20\nif the employee or non-employee does not go back in and re-submit their tim=\ne=20\nfor this period.\n\nPayroll Implications\n? Effective with the April 1st re-org, expense and payroll charges will be=\n=20\ndirected to new cost centers.\n\n"
+        },
+        {
+          "message_id": "<6025966.1075849826500.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "patti.thompson@enron.com",
+          "to": "",
+          "subject": "New Net Works Cost Centers",
+          "body": " To be determined once 1st memo is distributed, we sent out a communication=\n=20\ninforming all ENW employees of the transfer from your old Enron company to=\n=20\nEnron Net Works.\n\n   Today=01,s communication includes:\n? New ENW Company Code\n? New ENW Cost Centers listed by Department Head\n? New ENW Organization Units\n? Listing of HR Representatives and Financial Contact\n\n=20\n\nImplications for Business Unit Administrative Assistants\n\n? If you are coding anything (including timekeeping, invoicing and expense=\n=20\nreports) to a cost center, NOT a WBS Element, code to the new company code=\n=20\nand cost center.\n? If you are coding to a WBS Element, NOT a cost center, continue coding to=\n=20\nthe existing company code and WBS Element number, regardless of the change =\nin=20\ncost centers.  ***WBS Element numbers may be revised at some point in the=\n=20\nfuture.  If they do change, the new numbers will be communicated at that=20\ntime.***\n? If an employee or non-employee entered their time for the period starting=\n=20\nMarch 16th to the March 23st, that employee or non-employee must go back in=\nto=20\nSAP and re-enter their time.  Labor Distribution will be adversely affected=\n=20\nif the employee or non-employee does not go back in and re-submit their tim=\ne=20\nfor this period.\nPayroll Implications\n? Effective with the April 1st re-org, expense and payroll charges will be=\n=20\ndirected to new cost centers.\n\n"
+        }
+      ]
+    },
+    {
+      "id": "d8",
+      "summary": "Nominations for the CLE Planning Committee for the 2001 law conference to be identified before year end.",
+      "status": "pending",
+      "date": "1979-12-31",
+      "actors": [
+        "michelle.cash@enron.com",
+        "jim@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<9159571.1075860493502.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "michelle.cash@enron.com",
+          "to": "",
+          "subject": "2001 Law Conference",
+          "body": "Jim, \n\nAs we discussed, I would like to have nominations for the CLE Planning \nCommittee for the 2001 law conference identified before year end so that the \ncommittee will be able to meet in early January.  Below is draft language for \ninclusion in an email from you to the general counsels of the various \ngroups.  \n\n\nThe chair for the CLE Planning Committee for the 2001 Law Conference is \nMichelle Cash.  Each business unit law department should have at least one \nrepresentative on the CLE committee.   The first CLE Planning Committee \nmeeting will take place in early January; therefore, please give Michelle the \nname of your group's committee member by December 20.\n\n  \n------------------------------------------------------------------------------\n---------------------------\n\nMichelle Cash\nEnron North America Corp.\n1400 Smith Street, EB 3823\nHouston, Texas  77002\n(713) 853-6401\nmichelle.cash@enron.com\n\nThis message may contain confidential information that is protected by the \nattorney-client and/or work product privileges."
+        }
+      ]
+    },
+    {
+      "id": "d9",
+      "summary": "Postpone the ENA 2000 Offsite to early next year due to market volatility.",
+      "status": "made",
+      "date": "2000-01-01",
+      "actors": [
+        "david.delainey@enron.com",
+        "kay.chapman@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<11039522.1075848306657.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "david.delainey@enron.com",
+          "to": "kay.chapman@enron.com",
+          "subject": "ENA 2000 Offsite",
+          "body": "Given tremendous energy market volatility and as we stretch resources to make \nour commercial goals for 2000, it was decided that it would be appropriate to \npostpone the ENA 2000 Offsite to early next year.  I trust this meets with \nyour approval and thanks for all the hard work.\n\nRegards\nDave and John"
+        }
+      ]
+    },
+    {
+      "id": "d10",
+      "summary": "Propose to make an offer to Josh Chapa at a salary of $57,000 pending an interview.",
+      "status": "pending",
+      "date": "2000-01-01",
+      "actors": [
+        "randall.gay@enron.com",
+        "toni.graham@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<15632552.1075855736811.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "randall.gay@enron.com",
+          "to": "toni.graham@enron.com",
+          "subject": "Josh Chapa",
+          "body": "Toni:  pending the Cynthia Lara interview tomorrow, I think I would like to \nmake an offer to Josh.  I have interviewed him before, and he comes highly \nrecommended.  He told me he is currently making $61,000 @ Dynegy, but I would \nlike to offer a little less, somewhere in the $57,000 range.  Letr me know if \nyou are ok with this, or what concerns you may have.  Let me know.  Thanks."
+        }
+      ]
+    },
+    {
+      "id": "d11",
+      "summary": "Reorganized the Wholesale Services Legal Department to align with business units and improve efficiency.",
+      "status": "made",
+      "date": "1979-12-31",
+      "actors": [
+        "janette.elbertson@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<6699165.1075845014472.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "janette.elbertson@enron.com",
+          "to": "",
+          "subject": "Enron Wholesale Services Legal Department",
+          "body": " As a follow-up to the recent Enron Corp. memorandum forming Enron Wholesale \nServices (EWS), effective today, we have reorganized the Wholesale Services \nLegal Department.\n\n The goals in reorganizing the department are as follows:  (i) align the \nlegal department as closely as possible with the business units, (ii) speed \nthe flow of legal technology across the business units, and (iii) achieve \ngreater efficiency and consistency across the organization.\n\n To this end, a legal policy group will be formed for EWS Legal, which will \ninclude Lance Schuler, Enron Americas; Mark Evans, Enron Europe; Mark Taylor, \nEnron Net Works; Alan Aronowitz, Enron Global Markets; Julia Murray, Enron \nIndustrial Markets; and Bruce Lundstrom, Enron Global Assets.\n\n The organization chart for the EWS Legal Department is attached.  More \ncomprehensive organization charts will follow for each group.\n\nMark Frevert and Mark Haedicke\n\n"
+        }
+      ]
+    },
+    {
+      "id": "d12",
+      "summary": "Scheduled mandatory Chinese Wall training for employees to ensure compliance with securities laws.",
+      "status": "made",
+      "date": "1979-12-31",
+      "actors": [
+        "janette.elbertson@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<3974543.1075845020359.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "janette.elbertson@enron.com",
+          "to": "steve.jacobellis@enron.com, pushkar.shahi@enron.com, \n\twilliam.stuart@enron.com, ellen.su@enron.com, \n\tmichael.bradley@enron.com, samantha.davidson@enron.com, \n\tfarzad.farhangnia@enron.com, jaime.gualy@enron.com, \n\tmatthew.jachimiak@enron.com, william.lewis@enron.com, \n\tkelly.mccoy@enron.com, michelle.d.cisneros@enron.com, \n\teric.scott@enron.com, selena.gonzalez@enron.com, \n\tjohn.greene@enron.com, david.vitrella@enron.com, \n\tjohn.weakly@enron.com, mike.fowler@enron.com, \n\tgary.hickerson@enron.com, sheila.glover@enron.com, \n\ttheresa.brogan@enron.com, aneela.charania@enron.com",
+          "subject": "\"Chinese Wall\" Classroom Training",
+          "body": "Chinese Wall training of one hour has been scheduled on the dates listed=20\nbelow.  The training is mandatory and allows EWS to continue operating all=\n=20\nits businesses including equity trading without violating the securities la=\nws.\n\nPlease register for one of the four one-hour sessions listed below.  Each=\n=20\nsession is tailored to a particular commercial group, and it would be=20\npreferable if you could attend the session for your group.  (Your particula=\nr=20\ngroup is the one highlighted in bold on the list below.)=20\n\n Monday, March 5, 2001, 10:00 a.m. =01) Resource Group\n Monday, March 5, 2001, 11:00 a.m. =01) Origination/Business Development\n Monday, March 5, 2001, 3:30 p.m. =01) Financial Trading Group\n Monday, March 5, 2001, 4:30 p.m.  =01) Heads of Trading Desks\n\nEach of the above sessions will be held at the downtown Hyatt Regency Hotel=\n=20\nin Sandalwood Rooms A & B.  Alternatively, two make-up sessions are schedul=\ned=20\nfor Tuesday, March 13, 2001 at 3:30 p.m. and 4:30 p.m.  Location informatio=\nn=20\nfor the make-up sessions will be announced later.\n\nPlease confirm your attendance at one of these sessions with Brenda Whitehe=\nad=20\nby e-mailing her at brenda.whitehead@enron.com or calling her at extension=\n=20\n3-5438.\n\n\nMark Frevert and Mark Haedicke\n\n=20\n"
+        },
+        {
+          "message_id": "<26838733.1075845020401.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "janette.elbertson@enron.com",
+          "to": "philippe.bibi@enron.com, raymond.bowen@enron.com, julie.gomez@enron.com, \n\tsteven.kean@enron.com, louise.kitchen@enron.com, \n\tjohn.lavorato@enron.com, mike.mcconnell@enron.com, \n\tjeffrey.mcmahon@enron.com, michael.miller@enron.com, \n\tgreg.piper@enron.com, jeffrey.shankman@enron.com, \n\trichard.shapiro@enron.com, john.sherriff@enron.com, \n\tgreg.whalley@enron.com",
+          "subject": "\"Chinese Wall\" Classroom Training",
+          "body": "Chinese Wall training of one hour has been scheduled on the dates listed=20\nbelow.  The training is mandatory and allows EWS to continue operating all=\n=20\nits businesses including equity trading without violating the securities la=\nws.\n\nPlease register for one of the four one-hour sessions listed below.  Each=\n=20\nsession is tailored to a particular commercial group, and it would be=20\npreferable if you could attend the session for your group.  (Your particula=\nr=20\ngroup is the one highlighted in bold on the list below.) =20\n\n Monday, March 5, 2001, 10:00 a.m. =01) Resource Group\n Monday, March 5, 2001, 11:00 a.m. =01) Origination/Business Development\n Monday, March 5, 2001, 3:30 p.m. =01) Financial Trading Group\n Monday, March 5, 2001, 4:30 p.m.  =01) Heads of Trading Desks\n\nEach of the above sessions will be held at the downtown Hyatt Regency Hotel=\n=20\nin Sandalwood Rooms A & B.  Alterntatively, two make-up sessions are=20\nscheduled for Tuesday, March 13, 2001 at 3:30 p.m. and 4:30 p.m.  Location=\n=20\ninformation for the make-up sessions will be announced later.\n\nPlease confirm your attendance at one of these sessions with Brenda Whitehe=\nad=20\nby e-mailing her at brenda.whitehead@enron.com or calling her at extension=\n=20\n3-5438.\n\n=20\nMark Frevert and Mark Haedicke\n=20\n\n"
+        },
+        {
+          "message_id": "<6356365.1075845020440.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "janette.elbertson@enron.com",
+          "to": "jeffery.ader@enron.com, berney.aucoin@enron.com, edward.baughman@enron.com, \n\tdana.davis@enron.com, doug.gilbert-smith@enron.com, \n\trogers.herndon@enron.com, ben.jacoby@enron.com, \n\tozzie.pagan@enron.com, kevin.presto@enron.com, \n\tfletcher.sturm@enron.com, bruce.sukaly@enron.com, \n\tlloyd.will@enron.com, mark.tawney@enron.com, \n\tgeorge.mcclellan@enron.com, fred.lagrasta@enron.com, \n\tjohn.arnold@enron.com, scott.neal@enron.com, \n\thunter.shively@enron.com, phillip.allen@enron.com, \n\tthomas.martin@enron.com",
+          "subject": "\"Chinese Wall\" Classroom Training",
+          "body": "Chinese Wall training of one hour has been scheduled on the dates listed=20\nbelow.   The training is mandatory and allows EWS to continue operating all=\n=20\nits businesses including equity trading without violating the securities la=\nws.\n\nPlease register for one of the four one-hour sessions listed below.  Each=\n=20\nsession is tailored to a particular commercial group, and it would be=20\npreferable if you could attend the session for your group.  (Your particula=\nr=20\ngroup is the one highlighted in bold on the list below.) =20\n\n Monday, March 5, 2001, 10:00 a.m. =01) Resource Group\n Monday, March 5, 2001, 11:00 a.m. =01) Origination/Business Development\n Monday, March 5, 2001, 3:30 p.m. =01) Financial Trading Group\n Monday, March 5, 2001, 4:30 p.m.  =01) Heads of Trading Desks\n\nEach of the above sessions will be held at the downtown Hyatt Regency Hotel=\n=20\nin Sandalwood Rooms A & B.  Alternatively, two make-up sessions are schedul=\ned=20\nfor Tuesday, March 13, 2001 at 3:30 p.m. and 4:30 p.m.  Location informatio=\nn=20\nfor the make-up sessions will be announced later.\n\nPlease confirm your attendance at one of these sessions with Brenda Whitehe=\nad=20\nby e-mailing her at brenda.whitehead@enron.com or calling her at extension=\n=20\n3-5438.\n\nMark Frevert and Mark Haedicke\n\n"
+        },
+        {
+          "message_id": "<27670336.1075845020481.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "janette.elbertson@enron.com",
+          "to": "kevin.garland@enron.com, patrick.hickey@enron.com, steven.sheldon@enron.com, \n\tphillip.ballard@enron.com, marshall.eubank@enron.com, \n\tscott.josey@enron.com, allan.keel@enron.com, \n\tjesus.melendrez@enron.com, steve.pruett@enron.com, \n\tjoan.quick@enron.com, timothy.detmering@enron.com, \n\tmaria.garcia@enron.com, raul.rizo-patron@enron.com, \n\tpatrick.wade@enron.com, robert.greer@enron.com, \n\tkyle.kettler@enron.com, andreas.kraemer@enron.com, \n\tkevin.kuykendall@enron.com, charles.vetters@enron.com, \n\tgene.humphrey@enron.com, mark.lay@enron.com, dwight.larson@enron.com, \n\tmark.metts@enron.com, mitchell.taylor@enron.com, \n\tamit.walia@enron.com, john.enerson@enron.com, \n\trichard.lydecker@enron.com, randal.maffett@enron.com, \n\tmark.meier@enron.com, jesse.neyman@enron.com, brian.vass@enron.com, \n\tc.john.thompson@enron.com, michele.nezi.marvin@enron.net, \n\tjneyman@enron.com",
+          "subject": "\"Chinese Wall\" Classroom Training",
+          "body": "Chinese Wall training of one hour has been scheduled on the dates listed=20\nbelow.  The training is mandatory and allows EWS to continue operating all=\n=20\nits buisnesses including equity trading without violating the securities la=\nws.\n\nPlease register for one of the four one-hour sessions listed below.  Each=\n=20\nsession is tailored to a particular commercial group, and it would be=20\npreferable if you could attend the session for your group.  (Your particula=\nr=20\ngroup is the one highlighted in bold on the list below.) =20\n\n Monday, March 5, 2001, 10:00 a.m. =01) Resource Group\n Monday, March 5, 2001, 11:00 a.m. =01) Origination/Business Development\n Monday, March 5, 2001, 3:30 p.m. =01) Financial Trading Group\n Monday, March 5, 2001, 4:30 p.m.  =01) Heads of Trading Desks\n\nEach of the above sessions will be held at the downtown Hyatt Regency Hotel=\n=20\nin Sandalwood Rooms A & B.  Alternatively, two make-up sessions are schedul=\ned=20\nfor Tuesday, March 13, 2001 at 3:30 p.m. and 4:30 p.m.  Location informatio=\nn=20\nfor the make-up sessions will be announced later.\n\nPlease confirm your attendance at one of these sessions with Brenda Whitehe=\nad=20\nby e-mailing her at brenda.whitehead@enron.com or calling her at extension=\n=20\n3-5438.\n\nMark Frevert and Mark Haedicke\n"
+        },
+        {
+          "message_id": "<27398124.1075845020937.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "janette.elbertson@enron.com",
+          "to": "",
+          "subject": "\"Chinese Wall\" Classroom Training",
+          "body": "Chinese Wall training of one hour has been scheduled on the dates listed=20\nbelow.  The training is mandatory and allows EWS to continue operating all=\n=20\nits buisnesses including equity trading without violating the securities la=\nws.\n\n Please register for one of the four one-hour sessions listed below.  Each=\n=20\nsession is tailored to a particular commercial group, and it would be=20\npreferable if you could attend the session for your group.  (Your particula=\nr=20\ngroup is the one highlighted in bold on the list below.)  However, if you a=\nre=20\nunable to attend the session for your group, it is preferable that you atte=\nnd=20\nanother session rather than no session at all.\n\n Monday, March 5, 2001, 10:00 a.m. =01) Resource Group\n Monday, March 5, 2001, 11:00 a.m. =01) Origination/Business Development\n Monday, March 5, 2001, 3:30 p.m. =01) Financial Trading Group\n Monday, March 5, 2001, 4:30 p.m.  =01) Heads of Tra"
+        }
+      ]
+    },
+    {
+      "id": "d13",
+      "summary": "Implemented a legal review process for third-party electronic trading platforms to ensure compliance.",
+      "status": "made",
+      "date": "1979-12-31",
+      "actors": [
+        "janette.elbertson@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<20453588.1075845021471.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "janette.elbertson@enron.com",
+          "to": "",
+          "subject": "LEGAL REVIEW OF THIRD PARTY ELECTRONIC TRADING PLATFORMS",
+          "body": "In order to ensure adequate, consistent legal review of on-line terms and=\n=20\nconditions governing use of third party electronic trading platforms, you=\n=20\nmust have all registration documentation (including, for example, password=\n=20\napplications and access agreements) approved by the On-Line Trading Legal=\n=20\nContact before such documentation is submitted or executed.  Any document=\n=20\nthat requires acceptance by =01&clicking=018 should be treated like any oth=\ner legal=20\ndocument.  You are not authorized to accept any such click agreement withou=\nt=20\nwritten approval of the On-Line Trading Legal Contact.  In addition, the=20\nOn-Line Trading Legal Contact must review and approve all product=20\ndescriptions and other on-line terms and conditions applicable to a product=\n=20\nbefore a password may be used to trade that product on a third party=20\nelectronic trading platform.  Accordingly, before any master user or subuse=\nr=20\nuses a password to trade a product, he or she must confirm that the On-Line=\n=20\nTrading Legal Contact has approved all applicable product descriptions and=\n=20\nterms and conditions applicable to such product.=20\n\nThe current On-Line Trading Legal Contact is Mark Greenberg (extension 5889=\n7)=20\n(or in his absence, Mark Taylor (extension 37459)). =20\n\n"
+        }
+      ]
+    },
+    {
+      "id": "d14",
+      "summary": "Proposed the start-up of electronic trading for drafting and negotiation of energy contracts.",
+      "status": "pending",
+      "date": "1979-12-31",
+      "actors": [
+        "mark.haedicke@enron.com"
+      ],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<12957229.1075844997562.JavaMail.evans@thyme>",
+          "date": "Mon, 31 Dec 1979 16:00:00 -0800 (PST)",
+          "from": "mark.haedicke@enron.com",
+          "to": "",
+          "subject": "Creating Worldwide Electronic Trading Form",
+          "body": "I believe the start-up of click trading is an opportune time to go electronic \non all aspects of the drafting and negotiation of master energy contracts and \nconfirmations.  At least one law firm has a  project underway where the goal \nis to type in the country, the commodity type (including quantity and time) \nand to have a draft trading contract be the immediate result.  The concept is \none of \"modular\" construction of trading contracts with maximum \nstandardization and minimum differences country to country and commodity to \ncommodity.  I want everyone to be thinking about how this can be \naccomplished.  I will schedule a meeting on this shortly."
+        }
+      ]
+    }
+  ]
+}

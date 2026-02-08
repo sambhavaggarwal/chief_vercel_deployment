@@ -1,0 +1,276 @@
+{
+  "decisions": [
+    {
+      "id": "d1",
+      "summary": "Approve 2001 margin plan at $35M",
+      "status": "made",
+      "date": "2000-03-10",
+      "actors": ["phillip.allen@enron.com", "paula.harris@enron.com"],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<msg-001>",
+          "date": "2000-03-08",
+          "from": "phillip.allen@enron.com",
+          "to": "paula.harris@enron.com",
+          "subject": "Re: 2001 Margin Plan",
+          "body": "Paula,\n\n35 million is fine. Let's lock it in.\n\nPhillip"
+        },
+        {
+          "message_id": "<msg-002>",
+          "date": "2000-03-10",
+          "from": "paula.harris@enron.com",
+          "to": "phillip.allen@enron.com",
+          "subject": "Re: Re: 2001 Margin Plan",
+          "body": "Phillip,\n\nConfirmed — margin plan approved at $35M.\n\nPaula"
+        }
+      ]
+    },
+    {
+      "id": "d2",
+      "summary": "Launch West Power desk restructure",
+      "status": "made",
+      "date": "2000-06-22",
+      "actors": ["john.lavorato@enron.com", "louise.kitchen@enron.com"],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<msg-003>",
+          "date": "2000-06-20",
+          "from": "john.lavorato@enron.com",
+          "to": "louise.kitchen@enron.com",
+          "subject": "West Power Desk",
+          "body": "Louise,\n\nWe need to restructure the West Power desk. Current setup isn't scaling. Let's discuss Monday.\n\nJohn"
+        }
+      ]
+    },
+    {
+      "id": "d3",
+      "summary": "Initiate California regulatory response strategy",
+      "status": "made",
+      "date": "2000-09-05",
+      "actors": ["richard.shapiro@enron.com", "james.steffes@enron.com"],
+      "parent_id": null,
+      "emails": [
+        {
+          "message_id": "<msg-004>",
+          "date": "2000-09-03",
+          "from": "richard.shapiro@enron.com",
+          "to": "james.steffes@enron.com",
+          "subject": "CA Regulatory Issues",
+          "body": "Jim,\n\nWe need a coordinated response to the California regulatory situation. Can you draft a strategy memo?\n\nRichard"
+        },
+        {
+          "message_id": "<msg-005>",
+          "date": "2000-09-05",
+          "from": "james.steffes@enron.com",
+          "to": "richard.shapiro@enron.com",
+          "subject": "Re: CA Regulatory Issues",
+          "body": "Richard,\n\nDraft attached. Key points: engage FERC early, maintain current trading positions, prepare public statement.\n\nJim"
+        }
+      ]
+    },
+    {
+      "id": "d4",
+      "summary": "Hire 3 additional gas traders for West desk",
+      "status": "made",
+      "date": "2000-08-15",
+      "actors": ["phillip.allen@enron.com", "matt.smith@enron.com"],
+      "parent_id": "d1",
+      "emails": [
+        {
+          "message_id": "<msg-006>",
+          "date": "2000-08-14",
+          "from": "phillip.allen@enron.com",
+          "to": "matt.smith@enron.com",
+          "subject": "New Traders",
+          "body": "Matt,\n\nWith the new margin plan approved we have budget for 3 more gas traders. Start recruiting.\n\nPhillip"
+        }
+      ]
+    },
+    {
+      "id": "d5",
+      "summary": "Migrate West Power to new risk system",
+      "status": "pending",
+      "date": "2000-10-01",
+      "actors": ["louise.kitchen@enron.com", "beth.perlman@enron.com"],
+      "parent_id": "d2",
+      "emails": [
+        {
+          "message_id": "<msg-007>",
+          "date": "2000-09-28",
+          "from": "louise.kitchen@enron.com",
+          "to": "beth.perlman@enron.com",
+          "subject": "Risk System Migration",
+          "body": "Beth,\n\nAs part of the desk restructure, we need West Power on the new risk system by end of Q4. What's the timeline look like?\n\nLouise"
+        },
+        {
+          "message_id": "<msg-008>",
+          "date": "2000-10-01",
+          "from": "beth.perlman@enron.com",
+          "to": "louise.kitchen@enron.com",
+          "subject": "Re: Risk System Migration",
+          "body": "Louise,\n\nWe can have a staging environment ready by Nov 1. Full migration by Dec 15 if we get the data team's support.\n\nBeth"
+        }
+      ]
+    },
+    {
+      "id": "d6",
+      "summary": "File FERC complaint on CA price caps",
+      "status": "made",
+      "date": "2000-11-12",
+      "actors": ["richard.shapiro@enron.com", "sarah.novosel@enron.com"],
+      "parent_id": "d3",
+      "emails": [
+        {
+          "message_id": "<msg-009>",
+          "date": "2000-11-10",
+          "from": "richard.shapiro@enron.com",
+          "to": "sarah.novosel@enron.com",
+          "subject": "FERC Filing",
+          "body": "Sarah,\n\nPer our regulatory strategy, please prepare the FERC complaint regarding CA price caps. We need this filed by end of month.\n\nRichard"
+        }
+      ]
+    },
+    {
+      "id": "d7",
+      "summary": "Approve Q1 2001 trading limits increase",
+      "status": "made",
+      "date": "2001-01-18",
+      "actors": ["phillip.allen@enron.com", "john.lavorato@enron.com"],
+      "parent_id": "d4",
+      "emails": [
+        {
+          "message_id": "<msg-010>",
+          "date": "2001-01-15",
+          "from": "matt.smith@enron.com",
+          "to": "phillip.allen@enron.com",
+          "subject": "Trading Limits",
+          "body": "Phillip,\n\nNew traders are onboarded. Requesting increased trading limits for Q1 to accommodate expanded desk.\n\nMatt"
+        },
+        {
+          "message_id": "<msg-011>",
+          "date": "2001-01-18",
+          "from": "phillip.allen@enron.com",
+          "to": "john.lavorato@enron.com",
+          "subject": "Fwd: Trading Limits",
+          "body": "John,\n\nApproved the limit increase. New desk is fully staffed.\n\nPhillip"
+        }
+      ]
+    },
+    {
+      "id": "d8",
+      "summary": "Deploy new risk dashboard for West Power",
+      "status": "made",
+      "date": "2001-02-05",
+      "actors": ["beth.perlman@enron.com", "louise.kitchen@enron.com"],
+      "parent_id": "d5",
+      "emails": [
+        {
+          "message_id": "<msg-012>",
+          "date": "2001-02-05",
+          "from": "beth.perlman@enron.com",
+          "to": "louise.kitchen@enron.com",
+          "subject": "Risk Dashboard Live",
+          "body": "Louise,\n\nNew risk dashboard is deployed and live for West Power. Migration complete.\n\nBeth"
+        }
+      ]
+    },
+    {
+      "id": "d9",
+      "summary": "Engage outside counsel for FERC proceedings",
+      "status": "made",
+      "date": "2001-01-25",
+      "actors": ["sarah.novosel@enron.com", "richard.shapiro@enron.com"],
+      "parent_id": "d6",
+      "emails": [
+        {
+          "message_id": "<msg-013>",
+          "date": "2001-01-22",
+          "from": "sarah.novosel@enron.com",
+          "to": "richard.shapiro@enron.com",
+          "subject": "Outside Counsel",
+          "body": "Richard,\n\nFERC has scheduled hearings for March. We should engage Bracewell & Patterson for representation.\n\nSarah"
+        },
+        {
+          "message_id": "<msg-014>",
+          "date": "2001-01-25",
+          "from": "richard.shapiro@enron.com",
+          "to": "sarah.novosel@enron.com",
+          "subject": "Re: Outside Counsel",
+          "body": "Sarah,\n\nAgreed. Engage them immediately. Budget approved.\n\nRichard"
+        }
+      ]
+    },
+    {
+      "id": "d10",
+      "summary": "Set up gas trading analytics pipeline",
+      "status": "pending",
+      "date": "2001-03-20",
+      "actors": ["phillip.allen@enron.com", "keith.holst@enron.com"],
+      "parent_id": "d7",
+      "emails": [
+        {
+          "message_id": "<msg-015>",
+          "date": "2001-03-18",
+          "from": "phillip.allen@enron.com",
+          "to": "keith.holst@enron.com",
+          "subject": "Analytics Pipeline",
+          "body": "Keith,\n\nWith expanded trading limits, we need better analytics. Can your team build a real-time pipeline for the gas desk?\n\nPhillip"
+        }
+      ]
+    },
+    {
+      "id": "d11",
+      "summary": "Prepare testimony for FERC March hearings",
+      "status": "made",
+      "date": "2001-03-01",
+      "actors": ["sarah.novosel@enron.com", "james.steffes@enron.com"],
+      "parent_id": "d9",
+      "emails": [
+        {
+          "message_id": "<msg-016>",
+          "date": "2001-02-28",
+          "from": "sarah.novosel@enron.com",
+          "to": "james.steffes@enron.com",
+          "subject": "FERC Testimony Prep",
+          "body": "Jim,\n\nOutside counsel needs our data on CA market prices for testimony. Can you coordinate with the trading desk?\n\nSarah"
+        },
+        {
+          "message_id": "<msg-017>",
+          "date": "2001-03-01",
+          "from": "james.steffes@enron.com",
+          "to": "sarah.novosel@enron.com",
+          "subject": "Re: FERC Testimony Prep",
+          "body": "Sarah,\n\nData package ready. Includes 6 months of hourly price data and our analysis showing market prices were competitive.\n\nJim"
+        },
+        {
+          "message_id": "<msg-018>",
+          "date": "2001-03-01",
+          "from": "richard.shapiro@enron.com",
+          "to": "sarah.novosel@enron.com",
+          "subject": "Re: FERC Testimony Prep",
+          "body": "Good work both. Make sure legal reviews everything before submission.\n\nRichard"
+        }
+      ]
+    },
+    {
+      "id": "d12",
+      "summary": "Expand West Power desk to include renewables",
+      "status": "pending",
+      "date": "2001-05-10",
+      "actors": ["louise.kitchen@enron.com", "john.lavorato@enron.com"],
+      "parent_id": "d8",
+      "emails": [
+        {
+          "message_id": "<msg-019>",
+          "date": "2001-05-08",
+          "from": "louise.kitchen@enron.com",
+          "to": "john.lavorato@enron.com",
+          "subject": "Renewables Trading",
+          "body": "John,\n\nNow that the new risk system is live, I think we should expand West Power to include renewables trading. The infrastructure can handle it.\n\nLouise"
+        }
+      ]
+    }
+  ]
+}

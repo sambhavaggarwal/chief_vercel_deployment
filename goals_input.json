@@ -1,0 +1,137 @@
+{
+  "goals": [
+    {
+      "id": "g1",
+      "summary": "Diversify into new commodity markets beyond energy",
+      "category": "strategic",
+      "parent_id": null,
+      "kpis": []
+    },
+    {
+      "id": "g2",
+      "summary": "Launch bandwidth/telecom commodity trading (Enron Broadband)",
+      "category": "strategic",
+      "parent_id": "g1",
+      "kpis": ["580 transactions in Q1 2001", "25 pooling points worldwide", "$8B market by 2002"]
+    },
+    {
+      "id": "g3",
+      "summary": "Launch credit derivatives trading (EnronCredit.com)",
+      "category": "financial",
+      "parent_id": "g1",
+      "kpis": ["Two-way prices on 200 energy credits by Jan 2000"]
+    },
+    {
+      "id": "g4",
+      "summary": "Build emissions trading market",
+      "category": "financial",
+      "parent_id": "g1",
+      "kpis": []
+    },
+    {
+      "id": "g5",
+      "summary": "Dominate North American gas and power markets",
+      "category": "strategic",
+      "parent_id": null,
+      "kpis": []
+    },
+    {
+      "id": "g6",
+      "summary": "Secure LNG terminal access (Cove Point)",
+      "category": "operational",
+      "parent_id": "g5",
+      "kpis": ["750,000 dekatherms/day deliverability", "6.75 Bcf storage capacity"]
+    },
+    {
+      "id": "g7",
+      "summary": "Expand domestic power generation portfolio",
+      "category": "operational",
+      "parent_id": "g5",
+      "kpis": []
+    },
+    {
+      "id": "g8",
+      "summary": "Optimize physical gas trading operations",
+      "category": "operational",
+      "parent_id": "g5",
+      "kpis": []
+    },
+    {
+      "id": "g9",
+      "summary": "Resolve Dabhol Power Project payment crisis (India)",
+      "category": "strategic",
+      "parent_id": null,
+      "kpis": ["$48M unpaid bills recovery", "Tariff renegotiation from 15c to viable rate"]
+    },
+    {
+      "id": "g10",
+      "summary": "Navigate California energy crisis",
+      "category": "strategic",
+      "parent_id": null,
+      "kpis": []
+    },
+    {
+      "id": "g11",
+      "summary": "Influence FERC on market structure and price caps",
+      "category": "regulatory",
+      "parent_id": "g10",
+      "kpis": []
+    },
+    {
+      "id": "g12",
+      "summary": "Preserve direct access for electricity customers",
+      "category": "regulatory",
+      "parent_id": "g10",
+      "kpis": []
+    },
+    {
+      "id": "g13",
+      "summary": "Win new generation capacity contracts in California",
+      "category": "operational",
+      "parent_id": "g10",
+      "kpis": ["1,000 MW new peaking resources for summer 2001"]
+    },
+    {
+      "id": "g14",
+      "summary": "Reduce operating costs by 10% by Q3 2001",
+      "category": "financial",
+      "parent_id": null,
+      "kpis": ["10% expense reduction by Q3 2001"]
+    },
+    {
+      "id": "g15",
+      "summary": "Launch eProcurement system",
+      "category": "operational",
+      "parent_id": "g14",
+      "kpis": ["Implementation by July 2, 2001"]
+    },
+    {
+      "id": "g16",
+      "summary": "Create EGAS business unit for international focus",
+      "category": "strategic",
+      "parent_id": null,
+      "kpis": []
+    },
+    {
+      "id": "g17",
+      "summary": "Build global risk management function",
+      "category": "operational",
+      "parent_id": null,
+      "kpis": []
+    },
+    {
+      "id": "g18",
+      "summary": "Shape national environmental legislation (Clean Power Group)",
+      "category": "regulatory",
+      "parent_id": null,
+      "kpis": []
+    },
+    {
+      "id": "g19",
+      "summary": "Prepare for California-related litigation",
+      "category": "legal",
+      "parent_id": null,
+      "kpis": []
+    }
+  ]
+}
