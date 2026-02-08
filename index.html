@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>KPI Risk Map</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:wght@500;650&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <div class="ambient">
+    <div class="orb orb-1"></div>
+    <div class="orb orb-2"></div>
+    <div class="grid"></div>
+  </div>
+
+  <header class="topbar">
+    <div>
+      <h1 id="pageTitle">Chief</h1>
+    </div>
+    <div class="meta">
+      <span class="pill">Last refreshed 1hr ago</span>
+      <button class="ghost" id="homeBtn">Home</button>
+      <button class="primary" id="integrationsBtn">Integrations</button>
+    </div>
+  </header>
+
+  <main class="shell" id="app">
+    <section class="overview" id="overview">
+      <div class="panel">
+        <div class="panel-header panel-header-row">
+          <!-- <h2>Top-Level KPIs</h2> -->
+          <p>Severity indicates downstream risk exposure.</p>
+          <button class="sort-btn" id="sortBtn" type="button">Sort: Severity ↓</button>
+        </div>
+        <div class="kpi-list" id="kpiList"></div>
+      </div>
+    </section>
+
+    <section class="detail" id="detail">
+      <div class="detail-head">
+        <div>
+          <h2 id="detailTitle"></h2>
+        </div>
+        <div class="detail-meta" id="detailMeta"></div>
+      </div>
+
+      <div class="detail-grid">
+        <div class="panel">
+          <div class="panel-header">
+            <h3>Upper-Level KPI At Risk</h3>
+            <p>What this metric is putting at risk.</p>
+          </div>
+          <div class="card" id="upperKpi"></div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-header">
+            <h3>Current KPI</h3>
+            <p>Status, owner, and target context.</p>
+          </div>
+          <div class="card" id="currentKpi"></div>
+        </div>
+
+        <div class="panel">
+          <div class="panel-header">
+            <h3>Lower-Level KPIs</h3>
+            <p>Building blocks that drive this KPI.</p>
+          </div>
+          <div class="kpi-sublist" id="lowerKpis"></div>
+        </div>
+      </div>
+
+    </section>
+
+    <section class="integrations" id="integrations">
+      <div class="detail-head">
+        <div>
+          <p>Choose tools to connect</p>
+        </div>
+        <div class="detail-meta">
+          <span class="pill">Auto-sync: enabled</span>
+          <span class="pill">Last sync: 8 mins ago</span>
+        </div>
+      </div>
+
+      <div class="integration-grid" id="integrationGrid"></div>
+      <div class="panel integration-note">
+        <h3>Why it matters</h3>
+        <p>
+          Integrations feed KPI ownership, alerts, and progress tracking in real time. Connect
+          communication tools for faster response and project systems to align actions with outcomes.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+
+</html>
